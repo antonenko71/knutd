@@ -16,6 +16,7 @@
     "@mui/styled-engine-sc": "^5.10.6",
     "@react-buddy/ide-toolbox": "^2.2.1",
     "@react-buddy/palette-mui": "^1.2.2",
+    "@types/styled-components": "^5.1.26",
     "cookies": "^0.8.0",
     "country-flag-icons": "^1.5.5",
     "i18next": "^22.0.5",
