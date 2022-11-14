@@ -1,9 +1,9 @@
 import styled, { css } from 'styled-components';
 
 const HomeSection = styled.section<{
-  homeBg?: string;
-  correctionBg?: string;
-  brushesBg?: string;
+  homeBg?: string | false;
+  correctionBg?: string | false;
+  brushesBg?: string | false;
 }>`
   position: relative;
   height: 700px;
