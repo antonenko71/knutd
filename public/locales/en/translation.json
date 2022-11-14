@@ -1,0 +1,164 @@
+{
+  "author": {
+    "first_name": "Olena",
+    "last_name": "Antonenko",
+    "city": "Kyiv"
+  },
+  "rights": "All rights reserved",
+
+  "brand_name": "Makeup",
+  "links": {
+    "home": "Home",
+    "correction": "Correction",
+    "brushes": "Brushes",
+    "about_products": "About products"
+  },
+
+  "home_page": {
+    "name": "Home",
+    "description": "Home page",
+    "title": "Basic principles of modern makeup",
+    "makeup_rules": [
+      "Modern makeup should be almost invisible on your face.",
+      "Cosmetics should hide flaws and focus on your advantages.",
+      "Excessive use of decorative cosmetics can make the face look artificial, and doll-like and add age.",
+      "It is necessary to maintain balance and harmony in makeup.",
+      "Modern and appropriate makeup should not look like a mask and significantly change facial features."
+    ],
+    "prepare_face": {
+      "title": "Facial skin preparation",
+      "accordion": [
+        {
+          "title": "Cleaning (gel, foam, milk, etc.)",
+          "information": "Cleansing before makeup is like brushing your teeth after sleeping. A step that should never be missed. It is necessary in order to remove excess sebum, dust, and impurities from the skin's surface."
+        },
+        {
+          "title": "Toning (toner)",
+          "information": "Cleansing should be accompanied by toning. It soothes, softens, and refreshes the skin, and removes impurities remaining on the skin's surface. Cosmetologists recommend choosing an alcohol-free liquid to avoid peeling and irritation."
+        },
+        {
+          "title": "Hydration (serum, cream, etc.)",
+          "information": "The next step is the most important because the final result depends on it. A good or bad face cleanser before makeup can make or break your beauty. And here again, it is important to choose the right product for your skin type. For oily skin, a light oil-free product with conditioning properties will be good, and for dry skin - a thicker, deeply hydrating one. At this stage, do not forget about sun protection. Day moisturiser with SPF can be used immediately or apply a separate layer of protection over the moisturiser."
+        }
+      ]
+    },
+    "makeup_types": {
+      "title": "Types of makeup",
+      "carousel": [
+        {
+          "title": "Nude",
+          "img": "src/assets/nude.png",
+          "img_secondary": "src/assets/nude_secondary.png"
+        },
+        {
+          "title": "Daytime",
+          "img": "src/assets/daytime.png"
+        },
+        {
+          "title": "Evening",
+          "img": "src/assets/evening.png"
+        },
+        {
+          "title": "Business",
+          "img": "src/assets/business.png"
+        },
+        {
+          "title": "Wedding",
+          "img": "src/assets/wedding.png"
+        },
+        {
+          "title": "Smokey eyes",
+          "img": "src/assets/smokey_eyes.png"
+        },
+        {
+          "title": "Ethnic makeup",
+          "img": "src/assets/ethnic.png"
+        },
+        {
+          "title": "Waterproof",
+          "img": "src/assets/waterproof.png"
+        },
+        {
+          "title": "Creative",
+          "img": "src/assets/creative.png"
+        },
+        {
+          "title": "Age-related",
+          "img": "src/assets/age_related.png"
+        }
+      ]
+    }
+  },
+
+  "correction_page": {
+    "name": "Correction",
+    "description": "Correction page",
+    "title": "Makeup for different face",
+    "introduction": {
+      "accordion": [
+        {
+          "title": "Oval Form",
+          "img": {
+            "src": "src/assets/oval_form.png",
+            "alt": "Oval form image"
+          }
+        },
+        {
+          "title": "Round form",
+          "img": {
+            "src": "src/assets/round_form.png",
+            "alt": "Round form image"
+          }
+        },
+        {
+          "title": "Straight form",
+          "img": {
+            "src": "src/assets/straight_form.png",
+            "alt": "Straight form image"
+          }
+        },
+        {
+          "title": "Square form",
+          "img": {
+            "src": "src/assets/square_form.png",
+            "alt": "Square form image"
+          }
+        },
+        {
+          "title": "Triangular form",
+          "img": {
+            "src": "src/assets/triangular_form.png",
+            "alt": "Triangular form image"
+          }
+        },
+        {
+          "title": "Pear form",
+          "img": {
+            "src": "src/assets/pear_form.png",
+            "alt": "Pear form image"
+          }
+        },
+        {
+          "title": "Diamond form",
+          "img": {
+            "src": "src/assets/diamond_form.png",
+            "alt": "Diamond form image"
+          }
+        }
+      ]
+    }
+  },
+
+  "brushes_page": {
+    "name": "Brushes",
+    "description": "Brushes page",
+    "title": "Types of makeup brushes",
+    "sub_title": {
+      "title": "Bones are made of synthetic and natural pile. Depending on which pile is used in the bone, you can choose which product is better to use:",
+      "list": [
+        "natural pile - for dry textures (shadows, powder, blush, bronzer)",
+        "synthetic pile - for liquid textures (tonal foundation, concealer, eyeliner, lipstick)"
+      ]
+    }
+  }
+}
