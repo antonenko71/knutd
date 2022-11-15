@@ -46,8 +46,8 @@
       "carousel": [
         {
           "title": "Нюдовий",
-          "img": "src/assets/nude.png",
-          "img_secondary": "src/assets/nude_secondary.png"
+          "img": "/img/nude.png",
+          "img_secondary": "/img/nude_secondary.png"
         },
         {
           "title": "Денний"
@@ -89,49 +89,49 @@
         {
           "title": "Овальна форма",
           "img": {
-            "src": "src/assets/oval_form.png",
+            "src": "/img/oval_form.png",
             "alt": "Картинка овальної форми"
           }
         },
         {
           "title": "Кругла форма",
           "img": {
-            "src": "src/assets/round_form.png",
+            "src": "/img/round_form.png",
             "alt": "Картинка круглої форми"
           }
         },
         {
           "title": "Прямокутна форма",
           "img": {
-            "src": "src/assets/straight_form.png",
+            "src": "/img//straight_form.png",
             "alt": "Картинка прямокутної форми"
           }
         },
         {
           "title": "Квадратна форма",
           "img": {
-            "src": "src/assets/square_form.png",
+            "src": "/img/square_form.png",
             "alt": "Картинка квадратної форми"
           }
         },
         {
           "title": "Трикутна форма",
           "img": {
-            "src": "src/assets/triangular_form.png",
+            "src": "/img//triangular_form.png",
             "alt": "Картинка трикутної форми"
           }
         },
         {
           "title": "Грушовидна форма",
           "img": {
-            "src": "src/assets/pear_form.png",
+            "src": "/img/pear_form.png",
             "alt": "Картинка грушовидної форми"
           }
         },
         {
           "title": "Ромбовидна форма",
           "img": {
-            "src": "src/assets/diamond_form.png",
+            "src": "/img/diamond_form.png",
             "alt": "Картинка ромбової форми"
           }
         }

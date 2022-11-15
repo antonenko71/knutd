@@ -47,44 +47,44 @@
       "carousel": [
         {
           "title": "Nude",
-          "img": "src/assets/nude.png",
+          "img": "/img/nude.png",
           "img_secondary": "src/assets/nude_secondary.png"
         },
         {
           "title": "Daytime",
-          "img": "src/assets/daytime.png"
+          "img": "/img/daytime.png"
         },
         {
           "title": "Evening",
-          "img": "src/assets/evening.png"
+          "img": "/img/evening.png"
         },
         {
           "title": "Business",
-          "img": "src/assets/business.png"
+          "img": "/img/business.png"
         },
         {
           "title": "Wedding",
-          "img": "src/assets/wedding.png"
+          "img": "/img/wedding.png"
         },
         {
           "title": "Smokey eyes",
-          "img": "src/assets/smokey_eyes.png"
+          "img": "/img//smokey_eyes.png"
         },
         {
           "title": "Ethnic makeup",
-          "img": "src/assets/ethnic.png"
+          "img": "/img/ethnic.png"
         },
         {
           "title": "Waterproof",
-          "img": "src/assets/waterproof.png"
+          "img": "/img/waterproof.png"
         },
         {
           "title": "Creative",
-          "img": "src/assets/creative.png"
+          "img": "/img/creative.png"
         },
         {
           "title": "Age-related",
-          "img": "src/assets/age_related.png"
+          "img": "/img/age_related.png"
         }
       ]
     }
@@ -99,49 +99,49 @@
         {
           "title": "Oval Form",
           "img": {
-            "src": "src/assets/oval_form.png",
+            "src": "/img/oval_form.png",
             "alt": "Oval form image"
           }
         },
         {
           "title": "Round form",
           "img": {
-            "src": "src/assets/round_form.png",
+            "src": "/img/round_form.png",
             "alt": "Round form image"
           }
         },
         {
           "title": "Straight form",
           "img": {
-            "src": "src/assets/straight_form.png",
+            "src": "/img/straight_form.png",
             "alt": "Straight form image"
           }
         },
         {
           "title": "Square form",
           "img": {
-            "src": "src/assets/square_form.png",
+            "src": "/img/square_form.png",
             "alt": "Square form image"
           }
         },
         {
           "title": "Triangular form",
           "img": {
-            "src": "src/assets/triangular_form.png",
+            "src": "/img/triangular_form.png",
             "alt": "Triangular form image"
           }
         },
         {
           "title": "Pear form",
           "img": {
-            "src": "src/assets/pear_form.png",
+            "src": "/img/pear_form.png",
             "alt": "Pear form image"
           }
         },
         {
           "title": "Diamond form",
           "img": {
-            "src": "src/assets/diamond_form.png",
+            "src": "/img/diamond_form.png",
             "alt": "Diamond form image"
           }
         }

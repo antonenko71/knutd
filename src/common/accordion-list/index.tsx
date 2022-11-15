@@ -90,7 +90,8 @@ const AccordionList = (props: IAccordionList) => {
               sx={{ display: 'flex', justifyContent: 'center' }}
             >
               {item.img && (
-                <img src={item.img.src} alt={item.img.alt} width="80px" />
+                // <img src={item.img.src} alt={item.img.alt} width="80px" />
+                <img src="/test/age_related.png" alt="test" />
               )}
             </AccordionDetails>
           )}
