@@ -50,31 +50,47 @@
           "img_secondary": "/img/nude_secondary.png"
         },
         {
-          "title": "Денний"
+          "title": "Денний",
+          "img": "/img/daytime.png",
+          "img_secondary": "/img/daytime_secondary.png"
         },
         {
-          "title": "Вечірній"
+          "title": "Вечірній",
+          "img": "/img/evening.png",
+          "img_secondary": "/img/evening_secondary.png"
         },
         {
-          "title": "Діловий"
+          "title": "Діловий",
+          "img": "/img/business.png",
+          "img_secondary": "/img/business_secondary.png"
         },
         {
-          "title": "Весільний"
+          "title": "Весільний",
+          "img": "/img/wedding.png",
+          "img_secondary": "/img/wedding_secondary.png"
         },
         {
-          "title": "Smokey eyes"
+          "title": "Smokey eyes",
+          "img": "/img//smokey_eyes.png"
         },
         {
-          "title": "Етнічний макіяж"
+          "title": "Етнічний макіяж",
+          "img": "/img/ethnic.png",
+          "img_secondary": "/img/ethnic_secondary.png"
         },
         {
-          "title": "Водостійкий"
+          "title": "Водостійкий",
+          "img": "/img/waterproof.png"
         },
         {
-          "title": "Креактивний"
+          "title": "Креактивний",
+          "img": "/img/creative.png",
+          "img_secondary": "/img/creative_secondary.png"
         },
         {
-          "title": "Віковий"
+          "title": "Віковий",
+          "img": "/img/age_related.png",
+          "img_secondary": "/img/age_related_secondary.png"
         }
       ]
     }

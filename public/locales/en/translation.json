@@ -48,23 +48,27 @@
         {
           "title": "Nude",
           "img": "/img/nude.png",
-          "img_secondary": "src/assets/nude_secondary.png"
+          "img_secondary": "/img/nude_secondary.png"
         },
         {
           "title": "Daytime",
-          "img": "/img/daytime.png"
+          "img": "/img/daytime.png",
+          "img_secondary": "/img/daytime_secondary.png"
         },
         {
           "title": "Evening",
-          "img": "/img/evening.png"
+          "img": "/img/evening.png",
+          "img_secondary": "/img/evening_secondary.png"
         },
         {
           "title": "Business",
-          "img": "/img/business.png"
+          "img": "/img/business.png",
+          "img_secondary": "/img/business_secondary.png"
         },
         {
           "title": "Wedding",
-          "img": "/img/wedding.png"
+          "img": "/img/wedding.png",
+          "img_secondary": "/img/wedding_secondary.png"
         },
         {
           "title": "Smokey eyes",
@@ -72,7 +76,8 @@
         },
         {
           "title": "Ethnic makeup",
-          "img": "/img/ethnic.png"
+          "img": "/img/ethnic.png",
+          "img_secondary": "/img/ethnic_secondary.png"
         },
         {
           "title": "Waterproof",
@@ -80,11 +85,13 @@
         },
         {
           "title": "Creative",
-          "img": "/img/creative.png"
+          "img": "/img/creative.png",
+          "img_secondary": "/img/creative_secondary.png"
         },
         {
           "title": "Age-related",
-          "img": "/img/age_related.png"
+          "img": "/img/age_related.png",
+          "img_secondary": "/img/age_related_secondary.png"
         }
       ]
     }

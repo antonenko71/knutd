@@ -1,7 +1,8 @@
 import styled from 'styled-components';
 
 const ImgContainer = styled.div`
-  width: 100%;
+  width: 350px;
+  height: 300px;
 `;
 
 const TwoImgContainer = styled.div`

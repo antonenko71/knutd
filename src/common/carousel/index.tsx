@@ -2,7 +2,7 @@
 import Carousel from 'react-material-ui-carousel';
 
 // component
-import { Paper } from '@mui/material';
+import { Paper, Typography } from '@mui/material';
 
 // styles
 import * as S from './styles';
@@ -15,18 +15,20 @@ const MyCarousel = (props: ICarouselListProps) => {
 
   return (
     <Carousel
-      autoPlay={false}
-      swipe={false}
       indicators={true}
       navButtonsAlwaysVisible={true}
       animation="slide"
       duration={1200}
-      sx={
-        {
-          // border: '20px solid #c473ea',
-          // backgroundColor: '#c473ea'
+      indicatorIconButtonProps={{
+        style: {
+          color: '#c473ea'
         }
-      }
+      }}
+      activeIndicatorIconButtonProps={{
+        style: {
+          color: '#feaab6'
+        }
+      }}
     >
       {list?.map((item) => (
         <Item
@@ -66,7 +68,9 @@ const Item = (props: ICarouselItemProps) => {
           <img src={img_secondary} alt={title} width="100%" height="100%" />
         </S.TwoImgContainer>
       )}
-      <div>{title}</div>
+      <Typography variant="subtitle1" gutterBottom component="div">
+        {title}
+      </Typography>
     </Paper>
   );
 };
