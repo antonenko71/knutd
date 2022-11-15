@@ -166,6 +166,50 @@
         "natural pile - for dry textures (shadows, powder, blush, bronzer)",
         "synthetic pile - for liquid textures (tonal foundation, concealer, eyeliner, lipstick)"
       ]
+    },
+    "makeup_tools": {
+      "title": "Makeup tools",
+      "tools": [
+        {
+          "title": "Brush for foundation",
+          "description": "Usually, it is a wide and flat brush with synthetic bristles. A brush with an artificial nap is better to use for applying a creamy substance than with a natural nap, because it is more versatile, the nap itself does not absorb moisture and grease and is preferable for applying any texture."
+        },
+        {
+          "title": "Concealer brush",
+          "description": "This brush is similar in shape to a foundation brush, but smaller in size. In fact, it has the same purpose as a foundation brush, only it can be used to work on small areas of the face, for example, under the eyes or around the nose. Also suitable for applying a base under shadows."
+        },
+        {
+          "title": "Brushes for powder",
+          "description": "It is easy to apply both loose and pressed powder. The size and length of the pile can be different, it does not matter. The most convenient option is a brush with short hairs. Too bulky and fluffy are inconvenient for applying powder on small areas of the face. For loose powder, it is better to choose a pile made of natural hairs, it is soft and silky, it will allow you to apply the powder in the thinnest layer."
+        },
+        {
+          "title": "Blush brush",
+          "description": "The brush is usually a little smaller in size than the basic one for powder and has a beveled shape for ease of application. Of course, there are also brushes of the usual round shape, it's as much as anyone likes. It is better to choose a brush with natural bristles."
+        },
+        {
+          "title": "Brushes for shadows",
+          "description": "These are small brushes, most diverse in large sets. They have a variety of pile width and length."
+        },
+        {
+          "title": "Brushes for eyeliner",
+          "description": "A thin brush with well-adjacent villi is used for drawing arrows and eyeliner."
+        },
+        {
+          "title": "Brush for drawing eyebrows",
+          "description": "Flat, with beveled and short pile. It is used to shade the shadows under the eyebrows or to correct the shape of the eyebrows. For use, it is recommended to choose natural pile."
+        },
+        {
+          "title": "Brushes for eyelashes",
+          "description": "An eyelash brush is used to remove excess mascara and comb the eyelashes. A double-sided brush - a comb serves the same purpose."
+        },
+        {
+          "title": "Brush for lipstick/lip gloss",
+          "description": "Cone-shaped, often flat. It is used for even distribution of lipstick."
+        }
+      ]
+    },
+    "brushesTypesImg": {
+      "alt": "Brushes types img"
     }
   }
 }

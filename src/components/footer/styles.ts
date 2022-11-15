@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { Container } from '@mui/material';
 
 const Footer = styled.footer`
-  padding: 50px 0;
+  padding: 20px 0;
   background-color: #000;
 `;
 
